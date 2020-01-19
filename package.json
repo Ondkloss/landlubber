@@ -1,0 +1,19 @@
+{
+  "name": "landlubber",
+  "version": "1.0.0",
+  "description": "Avast! Booty Ahoy!",
+  "main": "landlubber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Halvor Holsten Strand",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.6.9",
+    "@typescript-eslint/eslint-plugin": "^2.16.0",
+    "@typescript-eslint/parser": "^2.16.0",
+    "eslint": "^6.8.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
